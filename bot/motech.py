@@ -1,5 +1,5 @@
 # Update
-MT_BOT_UPDATES = "t.me/Mo_tech_YT"
+MOVIE CHANNEL = "t.me/MALAYALAM_MOVIES1000000"
 # Your Main Channel
-BOT_UPDATES = "t.me/Mo_Tech_YT"
+movie group = "t.me/Malayalam_filim"
 
